@@ -1,0 +1,11 @@
+global using Microsoft.OpenApi.Models;
+global using System.ComponentModel.DataAnnotations;
+global using System.Text.Json.Serialization;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using Microsoft.EntityFrameworkCore;
+global using IlmhubPizza.Entities;
+global using IlmhubPizza.Data;
+global using Microsoft.AspNetCore.Mvc;
+global using IlmhubPizza.Services;
+global using IlmhubPizza.Models;
+global using IlmhubPizza.Mappers;
